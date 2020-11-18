@@ -1,5 +1,5 @@
 {
-  "name": "extension-zip",
+  "name": "extension-zipper",
   "bin" : "bin/extension-zipper",
   "version": "1.0.0",
   "description": "",
